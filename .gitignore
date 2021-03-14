@@ -133,3 +133,6 @@ Jupyter Notebook/api_keys.py
 
 #Input folder
 /input
+
+#Maps Notebook (not ready yet)
+Jupyter Notebook/Newark_abandoned_maps.py
