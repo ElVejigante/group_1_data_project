@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 #API keys
-api_keys.py
+Jupyter Notebook/api_keys.py
 
 #Input folder
 /input
